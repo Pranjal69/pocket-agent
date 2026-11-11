@@ -1,0 +1,5 @@
+[
+  { "sku": "MON-24", "name": "24-inch monitor", "available": 8, "priceCents": 18000, "currency": "EUR" },
+  { "sku": "KEY-01", "name": "USB keyboard", "available": 25, "priceCents": 3500, "currency": "EUR" },
+  { "sku": "DOCK-01", "name": "USB-C dock", "available": 3, "priceCents": 9500, "currency": "EUR" }
+]
