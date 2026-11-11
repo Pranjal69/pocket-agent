@@ -1,0 +1,15 @@
+{
+  "name": "pocket-agent",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "A dependency-free agent framework proof of concept",
+  "exports": "./src/index.js",
+  "engines": { "node": ">=20.6" },
+  "scripts": {
+    "start": "node examples/inventory.js",
+    "demo": "node examples/inventory.js --demo",
+    "test": "node --test",
+    "test:live": "node scripts/live-check.js"
+  }
+}
